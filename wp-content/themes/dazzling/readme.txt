@@ -2,8 +2,8 @@
 
 Theme Name: Dazzling
 Theme URI: http://colorlib.com/wp/dazzling/
-Version: 1.3.1
-Tested up to: WP 3.9
+Version: 1.3.6
+Tested up to: WP 4.0
 
 Author: Aigars Silkalns
 Author URI: http://colorlib.com/wp/
@@ -61,6 +61,21 @@ Afterwards you can continue theme setup and customization via WordPress Dashboar
 Theme documentation is available on http://colorlib.com/wp/support/dazzling
 
 /*========= Changelog =========*/
+= 1.3.6 - 15.10.2014 =
+
+* Updated translation files to match the latest update
+
+= 1.3.5 - 15.10.2014 =
+
+* Improved Flexslider to make it compatible with other Flexslider powered plugins such as Visual Composer.
+* Simplified search form to make it friendlier to use outside widget area by using get_search_form
+
+= 1.3.2 - 11.09.2014 =
+
+* Updated Font Awesome to 4.2
+* Added Slideshare and VK.com social icon
+* Created more consistent code on options.php for Options Framework.
+* Improved translation files.
 
 = 1.3.1 - 03.08.2014 =
 
